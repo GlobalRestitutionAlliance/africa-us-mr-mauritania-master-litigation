@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-mauritania-canal-and-intervention-historian
-  name: Mauritania Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-mauritania-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_mr_001
+    name: Mauritania Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_002
+    name: Mauritania Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_003
+    name: Mauritania Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_004
+    name: Mauritania Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_005
+    name: Mauritania Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_006
+    name: Mauritania Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_007
+    name: Mauritania Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_008
+    name: Mauritania Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_009
+    name: Mauritania Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_010
+    name: Mauritania Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_011
+    name: Mauritania Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_012
+    name: Mauritania Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_013
+    name: Mauritania Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_014
+    name: Mauritania Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_015
+    name: Mauritania Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_016
+    name: Mauritania Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_017
+    name: Mauritania Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_018
+    name: Mauritania Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_019
+    name: Mauritania Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_020
+    name: Mauritania Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_021
+    name: Mauritania Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_022
+    name: Mauritania Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_023
+    name: Mauritania Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_024
+    name: Mauritania Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_025
+    name: Mauritania Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_026
+    name: Mauritania Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_027
+    name: Mauritania Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_028
+    name: Mauritania Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_029
+    name: Mauritania Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_030
+    name: Mauritania Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_031
+    name: Mauritania Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_032
+    name: Mauritania Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_033
+    name: Mauritania Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_034
+    name: Mauritania Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_035
+    name: Mauritania Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_036
+    name: Mauritania Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_037
+    name: Mauritania Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_038
+    name: Mauritania Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_039
+    name: Mauritania Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_040
+    name: Mauritania Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_041
+    name: Mauritania Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_042
+    name: Mauritania Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_043
+    name: Mauritania Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_044
+    name: Mauritania Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_045
+    name: Mauritania Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_046
+    name: Mauritania Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_047
+    name: Mauritania Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_048
+    name: Mauritania Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_049
+    name: Mauritania Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_050
+    name: Mauritania Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_051
+    name: Mauritania Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_052
+    name: Mauritania Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_053
+    name: Mauritania Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_054
+    name: Mauritania Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_055
+    name: Mauritania Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_056
+    name: Mauritania Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_057
+    name: Mauritania Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_058
+    name: Mauritania Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_059
+    name: Mauritania Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_060
+    name: Mauritania Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_061
+    name: Mauritania Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_062
+    name: Mauritania Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_063
+    name: Mauritania Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_064
+    name: Mauritania Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_065
+    name: Mauritania Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_066
+    name: Mauritania Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_067
+    name: Mauritania Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_068
+    name: Mauritania Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_069
+    name: Mauritania Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_070
+    name: Mauritania Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_071
+    name: Mauritania Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_072
+    name: Mauritania Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_073
+    name: Mauritania Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_074
+    name: Mauritania Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_075
+    name: Mauritania Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_076
+    name: Mauritania Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_077
+    name: Mauritania Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_078
+    name: Mauritania Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_079
+    name: Mauritania Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_080
+    name: Mauritania Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_081
+    name: Mauritania Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_082
+    name: Mauritania Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_083
+    name: Mauritania Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_084
+    name: Mauritania Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_085
+    name: Mauritania Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_086
+    name: Mauritania Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_087
+    name: Mauritania Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_088
+    name: Mauritania Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_089
+    name: Mauritania Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_090
+    name: Mauritania Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_091
+    name: Mauritania Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_092
+    name: Mauritania Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_093
+    name: Mauritania Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_094
+    name: Mauritania Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_095
+    name: Mauritania Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_096
+    name: Mauritania Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_097
+    name: Mauritania Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_098
+    name: Mauritania Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_099
+    name: Mauritania Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_100
+    name: Mauritania Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_101
+    name: Mauritania Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_102
+    name: Mauritania Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_103
+    name: Mauritania Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_104
+    name: Mauritania Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_105
+    name: Mauritania Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_106
+    name: Mauritania Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_107
+    name: Mauritania Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_108
+    name: Mauritania Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_109
+    name: Mauritania Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_110
+    name: Mauritania Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_111
+    name: Mauritania Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_112
+    name: Mauritania Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_113
+    name: Mauritania Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_114
+    name: Mauritania Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_115
+    name: Mauritania Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_116
+    name: Mauritania Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_117
+    name: Mauritania Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_118
+    name: Mauritania Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_119
+    name: Mauritania Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_120
+    name: Mauritania Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_121
+    name: Mauritania Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_122
+    name: Mauritania Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_123
+    name: Mauritania Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_124
+    name: Mauritania Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_125
+    name: Mauritania Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_126
+    name: Mauritania Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_127
+    name: Mauritania Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_128
+    name: Mauritania Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_129
+    name: Mauritania Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_130
+    name: Mauritania Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_131
+    name: Mauritania Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_132
+    name: Mauritania Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_133
+    name: Mauritania Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_134
+    name: Mauritania Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_135
+    name: Mauritania Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_136
+    name: Mauritania Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_137
+    name: Mauritania Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_138
+    name: Mauritania Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_139
+    name: Mauritania Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_140
+    name: Mauritania Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_141
+    name: Mauritania Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_142
+    name: Mauritania Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_143
+    name: Mauritania Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_144
+    name: Mauritania Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_145
+    name: Mauritania Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_146
+    name: Mauritania Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_147
+    name: Mauritania Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_148
+    name: Mauritania Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_149
+    name: Mauritania Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_150
+    name: Mauritania Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_151
+    name: Mauritania Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_152
+    name: Mauritania Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_153
+    name: Mauritania Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_154
+    name: Mauritania Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_155
+    name: Mauritania Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_156
+    name: Mauritania Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_157
+    name: Mauritania Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_158
+    name: Mauritania Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_159
+    name: Mauritania Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_160
+    name: Mauritania Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_161
+    name: Mauritania Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_162
+    name: Mauritania Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_163
+    name: Mauritania Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_164
+    name: Mauritania Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_165
+    name: Mauritania Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_166
+    name: Mauritania Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_167
+    name: Mauritania Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_168
+    name: Mauritania Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_169
+    name: Mauritania Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mr_170
+    name: Mauritania Agent 170
+    status: ACTIVE_SCAFFOLD

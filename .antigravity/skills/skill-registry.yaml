@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: mauritanian-restitution-roadmap-and-qsf-trust-execution
-  name: Mauritanian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/mauritanian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_mr_001
+    name: Mauritania Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_002
+    name: Mauritania Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_003
+    name: Mauritania Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_004
+    name: Mauritania Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_005
+    name: Mauritania Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_006
+    name: Mauritania Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_007
+    name: Mauritania Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_008
+    name: Mauritania Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_009
+    name: Mauritania Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_010
+    name: Mauritania Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_011
+    name: Mauritania Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_012
+    name: Mauritania Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_013
+    name: Mauritania Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_014
+    name: Mauritania Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_015
+    name: Mauritania Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_016
+    name: Mauritania Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_017
+    name: Mauritania Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_018
+    name: Mauritania Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_019
+    name: Mauritania Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_020
+    name: Mauritania Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_021
+    name: Mauritania Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_022
+    name: Mauritania Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_023
+    name: Mauritania Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_024
+    name: Mauritania Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_025
+    name: Mauritania Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_026
+    name: Mauritania Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_027
+    name: Mauritania Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_028
+    name: Mauritania Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_029
+    name: Mauritania Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_030
+    name: Mauritania Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_031
+    name: Mauritania Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_032
+    name: Mauritania Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_033
+    name: Mauritania Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_034
+    name: Mauritania Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_035
+    name: Mauritania Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_036
+    name: Mauritania Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_037
+    name: Mauritania Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_038
+    name: Mauritania Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_039
+    name: Mauritania Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_040
+    name: Mauritania Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_041
+    name: Mauritania Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_042
+    name: Mauritania Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_043
+    name: Mauritania Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_044
+    name: Mauritania Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_045
+    name: Mauritania Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_046
+    name: Mauritania Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_047
+    name: Mauritania Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_048
+    name: Mauritania Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_049
+    name: Mauritania Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_050
+    name: Mauritania Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_051
+    name: Mauritania Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_052
+    name: Mauritania Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_053
+    name: Mauritania Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_054
+    name: Mauritania Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_055
+    name: Mauritania Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_056
+    name: Mauritania Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_057
+    name: Mauritania Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_058
+    name: Mauritania Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_059
+    name: Mauritania Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_060
+    name: Mauritania Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_061
+    name: Mauritania Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_062
+    name: Mauritania Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_063
+    name: Mauritania Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_064
+    name: Mauritania Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_065
+    name: Mauritania Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_066
+    name: Mauritania Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_067
+    name: Mauritania Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_068
+    name: Mauritania Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_069
+    name: Mauritania Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_070
+    name: Mauritania Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_071
+    name: Mauritania Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_072
+    name: Mauritania Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_073
+    name: Mauritania Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_074
+    name: Mauritania Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_075
+    name: Mauritania Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_076
+    name: Mauritania Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_077
+    name: Mauritania Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_078
+    name: Mauritania Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_079
+    name: Mauritania Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_080
+    name: Mauritania Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_081
+    name: Mauritania Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_082
+    name: Mauritania Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_083
+    name: Mauritania Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_084
+    name: Mauritania Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_085
+    name: Mauritania Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_086
+    name: Mauritania Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_087
+    name: Mauritania Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_088
+    name: Mauritania Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_089
+    name: Mauritania Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_090
+    name: Mauritania Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_091
+    name: Mauritania Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_092
+    name: Mauritania Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_093
+    name: Mauritania Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_094
+    name: Mauritania Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_095
+    name: Mauritania Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_096
+    name: Mauritania Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_097
+    name: Mauritania Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_098
+    name: Mauritania Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_099
+    name: Mauritania Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_100
+    name: Mauritania Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_101
+    name: Mauritania Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_102
+    name: Mauritania Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_103
+    name: Mauritania Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_104
+    name: Mauritania Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_105
+    name: Mauritania Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_106
+    name: Mauritania Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_107
+    name: Mauritania Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_108
+    name: Mauritania Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_109
+    name: Mauritania Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_110
+    name: Mauritania Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_111
+    name: Mauritania Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_112
+    name: Mauritania Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_113
+    name: Mauritania Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_114
+    name: Mauritania Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_115
+    name: Mauritania Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_116
+    name: Mauritania Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_117
+    name: Mauritania Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_118
+    name: Mauritania Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_119
+    name: Mauritania Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_120
+    name: Mauritania Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_121
+    name: Mauritania Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_122
+    name: Mauritania Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_123
+    name: Mauritania Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_124
+    name: Mauritania Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_125
+    name: Mauritania Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_126
+    name: Mauritania Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_127
+    name: Mauritania Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_128
+    name: Mauritania Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_129
+    name: Mauritania Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_130
+    name: Mauritania Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_131
+    name: Mauritania Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_132
+    name: Mauritania Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_133
+    name: Mauritania Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_134
+    name: Mauritania Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_135
+    name: Mauritania Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_136
+    name: Mauritania Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_137
+    name: Mauritania Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_138
+    name: Mauritania Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_139
+    name: Mauritania Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_140
+    name: Mauritania Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_141
+    name: Mauritania Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_142
+    name: Mauritania Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_143
+    name: Mauritania Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_144
+    name: Mauritania Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_145
+    name: Mauritania Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_146
+    name: Mauritania Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_147
+    name: Mauritania Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_148
+    name: Mauritania Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_149
+    name: Mauritania Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_150
+    name: Mauritania Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_151
+    name: Mauritania Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_152
+    name: Mauritania Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_153
+    name: Mauritania Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_154
+    name: Mauritania Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_155
+    name: Mauritania Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_156
+    name: Mauritania Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_157
+    name: Mauritania Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_158
+    name: Mauritania Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_159
+    name: Mauritania Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_160
+    name: Mauritania Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_161
+    name: Mauritania Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_162
+    name: Mauritania Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_163
+    name: Mauritania Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_164
+    name: Mauritania Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_165
+    name: Mauritania Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_166
+    name: Mauritania Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_167
+    name: Mauritania Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_168
+    name: Mauritania Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_169
+    name: Mauritania Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_170
+    name: Mauritania Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_171
+    name: Mauritania Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_172
+    name: Mauritania Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_173
+    name: Mauritania Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_174
+    name: Mauritania Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_175
+    name: Mauritania Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_176
+    name: Mauritania Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_177
+    name: Mauritania Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_178
+    name: Mauritania Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_179
+    name: Mauritania Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_180
+    name: Mauritania Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_181
+    name: Mauritania Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_182
+    name: Mauritania Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_183
+    name: Mauritania Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_184
+    name: Mauritania Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_185
+    name: Mauritania Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_186
+    name: Mauritania Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_187
+    name: Mauritania Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_188
+    name: Mauritania Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_189
+    name: Mauritania Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_190
+    name: Mauritania Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_191
+    name: Mauritania Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_192
+    name: Mauritania Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_193
+    name: Mauritania Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_194
+    name: Mauritania Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_195
+    name: Mauritania Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_196
+    name: Mauritania Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_197
+    name: Mauritania Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_198
+    name: Mauritania Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_199
+    name: Mauritania Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_200
+    name: Mauritania Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_201
+    name: Mauritania Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_202
+    name: Mauritania Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_203
+    name: Mauritania Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_204
+    name: Mauritania Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_205
+    name: Mauritania Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_206
+    name: Mauritania Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_207
+    name: Mauritania Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_208
+    name: Mauritania Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_209
+    name: Mauritania Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_210
+    name: Mauritania Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_211
+    name: Mauritania Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_212
+    name: Mauritania Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_213
+    name: Mauritania Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_214
+    name: Mauritania Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_215
+    name: Mauritania Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_216
+    name: Mauritania Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_217
+    name: Mauritania Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_218
+    name: Mauritania Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_219
+    name: Mauritania Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_220
+    name: Mauritania Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_221
+    name: Mauritania Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_222
+    name: Mauritania Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_223
+    name: Mauritania Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_224
+    name: Mauritania Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_225
+    name: Mauritania Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_226
+    name: Mauritania Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_227
+    name: Mauritania Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_228
+    name: Mauritania Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_229
+    name: Mauritania Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_230
+    name: Mauritania Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_231
+    name: Mauritania Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_232
+    name: Mauritania Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_233
+    name: Mauritania Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_234
+    name: Mauritania Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_235
+    name: Mauritania Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_236
+    name: Mauritania Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_237
+    name: Mauritania Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_238
+    name: Mauritania Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_239
+    name: Mauritania Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_240
+    name: Mauritania Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_241
+    name: Mauritania Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_242
+    name: Mauritania Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_243
+    name: Mauritania Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_244
+    name: Mauritania Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_245
+    name: Mauritania Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_246
+    name: Mauritania Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_247
+    name: Mauritania Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_248
+    name: Mauritania Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_249
+    name: Mauritania Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_250
+    name: Mauritania Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_251
+    name: Mauritania Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mr_252
+    name: Mauritania Skill 252
+    status: ACTIVE_SCAFFOLD
