@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loc.gov/item/?q=mauritania+slavery+colonial",
+  "final_url": "https://www.loc.gov/item/?q=mauritania+slavery+colonial",
+  "title": "Library of Congress - Mauritania",
+  "fetched_at": "2026-11-23T06:55:05.328987Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44570,
+  "sha256": "ad148e6761dafb36471a26d76b1514598e912ee303311cbbc50f63199542d4a9",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}
